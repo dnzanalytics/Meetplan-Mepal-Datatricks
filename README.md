@@ -16,7 +16,7 @@ This chapter contains all of the dataLayer components that must be implemented i
 
 | On | Whenever a website visiter Logs in |
 | -------- | ------------- |
-| Whereby | The user succesfully logs in and the event 'accountLogin' is fired into the dataLayer. The dataLayer object should contain the values presented in the code example 1 below.
+| Whereby | The user succesfully logs in and the event 'accountLogin' is fired into the dataLayer. The dataLayer object should contain the values presented in code example 1 below.
 
 **Code Example 1: For login event (This dataLayer push and event already exisits, only email adress should be added**
 ```
@@ -36,7 +36,7 @@ dataLayer.push({
 
 | On | Whenever a website visitor purchases something|
 | -------- | ------------- |
-| Whereby | The user receives a notification of a successful submission on the page: /nl/winkelwagen/bevestiging After this submission the Google dataLayer (dataLayer) has to be filled. The dataLayer object should contain the values presented in the code example below.
+| Whereby | The user receives a notification of a successful submission on the page: /nl/winkelwagen/bevestiging After this submission the Google dataLayer (dataLayer) has to be filled. The dataLayer object should contain the values presented in code example 2 below.
 
 The email address is filled in, in the first step of the checkout.
 
