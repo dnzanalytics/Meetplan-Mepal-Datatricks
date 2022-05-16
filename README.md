@@ -40,7 +40,7 @@ dataLayer.push({
 
 The email address is filled in, in the first step of the checkout.
 
-**Code Example 2: For purchases, this dataLayer push and event are new**
+**Code Example 2: For purchases (This dataLayer push and event are new)**
 ```
 <!-- dataLayer -->
 <script>
