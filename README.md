@@ -1,4 +1,4 @@
-# Mepal - Measurement protocol - Adding the email adress
+# Mepal - Measurement protocol
 For Datatricks and Google ads Enhanced Conversions
 
 ## Background
