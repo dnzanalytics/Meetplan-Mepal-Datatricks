@@ -1,5 +1,5 @@
 # Mepal - Measurement protocol
-For Datatricks and Google ads Enhanced Conversions. *This should be implemented on all websites (NL, DE, BE, AT).*
+For Datatricks and Google ads Enhanced Conversions. **This should be implemented on all websites (NL, DE, BE, AT).**
 
 ## Background
 In order to match more profiles in Datatrics AND to implement Enhanced Ecommerce, we need to add personal information to the dataLayer. In this case the extra information will be the email address. The email address should be available in the dataLayer at the moment of a log-in AND the moment of a purchase.
