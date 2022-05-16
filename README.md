@@ -1,5 +1,5 @@
 # Mepal - Measurement protocol
-For Datatricks and Google ads Enhanced Conversions
+For Datatricks and Google ads Enhanced Conversions. *This should be implemented on all websites (NL, DE, BE, AT).*
 
 ## Background
 In order to match more profiles in Datatrics AND to implement Enhanced Ecommerce, we need to add personal information to the dataLayer. In this case the extra information will be the email address. The email address should be available in the dataLayer at the moment of a log-in AND the moment of a purchase.
@@ -36,7 +36,7 @@ dataLayer.push({
 
 | On | Whenever a website visitor purchases something|
 | -------- | ------------- |
-| Whereby | The user receives a notification of a successful submission on the page: /nl/winkelwagen/bevestiging After this submission the Google dataLayer (dataLayer) has to be filled. The dataLayer object should contain the values presented in code example 2 below.
+| Whereby | The user receives a notification of a successful submission on the page: /nl/winkelwagen/bevestiging (= NL & BE), /de/einkaufswagen/dankeschoen (= DE & AT) After this submission the Google dataLayer (dataLayer) has to be filled. The dataLayer object should contain the values presented in code example 2 below.
 
 The email address is filled in, in the first step of the checkout.
 
